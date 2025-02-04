@@ -2,10 +2,6 @@ title: Master Form PTSD
 originalAuthor: dallin1016
 description: o7 Raven
 assets:
-- name: obj/W_EX010.mdlx
-  method: copy
-  source:
-  - name: obj/W_EX010.mdlx
 - name: msg/us/sys.bar
   method: binarc
   source:
