@@ -2,13 +2,17 @@
   en: PTSD Form
 - id: 0x045F
   en: PTSD
+- id: 0x0460
+  en: Change Sub-Weapon used in PTSD Form.
+- id: 0x0646
+  en: PTSD Form
 - id: 0x0647
   en: >-
     With the help of two friends, use
     
     the Drive Command to change
     
-    into Master Form.
+    into PTSD Form.
 - id: 0x3981
   en: PTSD Strike
 - id: 0x3989
@@ -23,7 +27,8 @@
     
     PTSD Form is usable.
 - id: 0x42B8
-  en: "PTSD" Genie
+  en: >-
+    "PTSD" Genie
 - id: 0x432C
   en: PTSD
 - id: 0x4580
