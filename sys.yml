@@ -1,0 +1,51 @@
+- id: 0x01E7
+  en: PTSD Form
+- id: 0x045F
+  en: PTSD
+- id: 0x0647
+  en: >-
+    With the help of two friends, use
+    
+    the Drive Command to change
+    
+    into Master Form.
+- id: 0x3981
+  en: PTSD Strike
+- id: 0x3989
+  en: PTSD Magic
+- id: 0x3BCE
+  en: Auto PTSD
+- id: 0x3BCF
+  en: >-
+    Automatically sets the Reaction
+    
+    Command to PTSD in a pinch, if
+    
+    PTSD Form is usable.
+- id: 0x42B8
+  en: "PTSD" Genie
+- id: 0x432C
+  en: PTSD
+- id: 0x4580
+  en: >-
+    PTSD Form Level. Time spent
+    
+    transformed becomes longer, and
+    
+    Abilities become stronger by leveling up.
+- id: 0x458C
+  en: >-
+    The Form guage for PTSD Form.
+    
+    The longer the guage, the longer
+    
+    the time spent transformed.
+- id: 0x45AC
+  en: PTSD LV
+- id: 0x4B91
+  en: >-
+    PTSD Form Status. A Form that 
+    
+    handles both the Keyblade and magic.
+    
+    {:color #F0F00080}Drive points consumed: 4{:reset}
